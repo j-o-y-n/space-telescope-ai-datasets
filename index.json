@@ -1,15 +1,15 @@
 {
   "planets": [
-    "data/processed/planets/kepler-10.json",
-    "data/processed/planets/kepler-8.json",
-    "data/processed/planets/kepler-12.json",
-    "data/processed/planets/toi_700.json"
+    "planets/kepler-10.json",
+    "planets/kepler-8.json",
+    "planets/kepler-12.json",
+    "planets/toi_700.json"
   ],
   "non_planets": [
-    "data/processed/non_planets/tic_1403938.json",
-    "data/processed/non_planets/tic_55525572.json"
+    "non_planets/tic_1403938.json",
+    "non_planets/tic_55525572.json"
   ],
   "false_positives": [
-    "data/processed/false_positives/wasp-18.json"
+    "false_positives/wasp-18.json"
   ]
 }
